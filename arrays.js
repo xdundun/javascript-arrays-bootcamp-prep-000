@@ -2,7 +2,7 @@ var chocolateBars = [ "snickers", "hundred grand", "kitkat", "skittles"];
 
 function addElementToBeginningOfArray(array, 'foo') {
   array.push('foo')
-  return foo[element];
+  return array;
 }
 
 function destructivelyAddElementToBeginningOfArray(foo, element) {
